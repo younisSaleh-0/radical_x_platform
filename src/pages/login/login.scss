@@ -1,0 +1,13 @@
+.login {
+  display: flex;
+  .login_left {
+    background-color: #793ef5;
+    width: 50%;
+    height: 100vh;
+  }
+  .login_right {
+    background-color: #fff;
+    width: 50%;
+    height: 100vh;
+  }
+}
